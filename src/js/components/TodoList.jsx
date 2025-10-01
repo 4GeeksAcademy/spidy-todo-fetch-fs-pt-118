@@ -75,7 +75,7 @@ const TodoList = () => {
 
   return (
     <>
-      <h1 className="text-primary">ToDo List</h1>
+      <h2 className="text-primary">ToDo List</h2>
       <form  onSubmit={handleSubmit}>
         <input
           className="border border-dark "
